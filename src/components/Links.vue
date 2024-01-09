@@ -65,14 +65,11 @@ const siteLinksList = computed(() => {
 const siteIcon = {
   Blog,
   Cloud,
-  CompactDisc,
-  GlobeEurope,
+  FileImage,
   Compass,
   Book,
-  Fire,
-  flask,
-  FileImage,
-  LaptopCode,
+  GlobeEurope,
+  Flask,
 };
 
 // 链接跳转
